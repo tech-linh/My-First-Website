@@ -1,2 +1,2 @@
 # My-Website
-Check my personal Website: phantrankhanhlinh.github.io/techwithlinh
+Check out my personal Website: phantrankhanhlinh.github.io/techwithlinh
